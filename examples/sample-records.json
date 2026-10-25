@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "note": "Synthetic documentation examples; not loaded by the app.",
+  "records": [
+    {
+      "id": "observation-1",
+      "title": "Sample temperature",
+      "place": "Sample City",
+      "source": "synthetic"
+    },
+    {
+      "id": "alert-1",
+      "title": "Sample wind alert",
+      "place": "Sample Region",
+      "severity": "moderate",
+      "source": "synthetic"
+    }
+  ]
+}
