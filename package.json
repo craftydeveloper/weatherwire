@@ -1,0 +1,11 @@
+{
+  "name": "weatherwire",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A local workspace for weather locations, observations, and alert notes; it does not promise a live feed.",
+  "scripts": {
+    "test": "node --test",
+    "validate": "node scripts/validate-static-app.mjs"
+  }
+}
